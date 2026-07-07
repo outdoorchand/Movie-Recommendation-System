@@ -21,4 +21,4 @@ Step 7: Run requirements.txt in vitual environment ".venv\Scripts\activate"
 <img width="1915" height="861" alt="Screenshot 2026-07-07 082903" src="https://github.com/user-attachments/assets/deaa60d3-a653-47f0-b666-2da7fdf499ba" />
 <img width="1912" height="925" alt="Screenshot 2026-07-07 082849" src="https://github.com/user-attachments/assets/62a3c369-0cce-4e62-a4f1-d2a45c398075" />
 <img width="1918" height="853" alt="Screenshot 2026-07-07 082917" src="https://github.com/user-attachments/assets/178486a2-d215-474b-8e9e-daacf2b0bf4e" />
-<img width="1915" height="861" alt="Screenshot 2026-07-07 082903" src="https://github.com/user-attachments/assets/788829f8-2723-4e34-ac43-86c00a0e5cb9" />
+<img width="1919" height="849" alt="Screenshot 2026-07-07 082936" src="https://github.com/user-attachments/assets/500bc4d4-b914-42dc-9b67-a8d71884b391" />
